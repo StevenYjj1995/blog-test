@@ -3,8 +3,9 @@
 这是`git add index.html`方方老师说的女朋友
 这是`git commit -v`方方老师说的结婚
 
-```javascript
+```javascript{
 console.log('你好,我叫叶健杰')
+}
 ```
 
 我的爱好
